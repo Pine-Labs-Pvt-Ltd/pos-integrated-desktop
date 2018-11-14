@@ -1,0 +1,65 @@
+C:\Projects\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.exe
+C:\Projects\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+C:\Projects\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.xml
+C:\Projects\WindowsApplication1\WindowsApplication1\bin\Release\Interop.PlutusExchangeLib.dll
+C:\Projects\WindowsApplication1\WindowsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\WindowsApplication1\WindowsApplication1\obj\Release\Interop.PlutusExchangeLib.dll
+C:\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Form1.resources
+C:\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Resources.resources
+C:\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.exe
+C:\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.xml
+C:\Projects\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.pdb
+C:\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.PlutusExchangeLib.dll
+C:\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.PlutusExchangeLib.dll
+C:\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Projects\PlutusExchangeVBNET\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Projects\PlutusExchangeVBNET\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Projects\PlutusExchangeVBNET\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Projects\PlutusExchangeVBNET\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Projects\PlutusExchangeVBNET\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Projects\PlutusExchangeVBNET\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Projects\PlutusExchangeVBNET\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.PlutusExchangeLib.dll
+C:\Projects\PlutusExchangeVBNET\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\PlutusExchangeVBNET\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.PlutusExchangeLib.dll
+C:\Projects\PlutusExchangeVBNET\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Projects\PlutusExchangeVBNET\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Projects\PlutusExchangeVBNET\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Projects\PlutusExchangeVBNET\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.PlutusExchangeLib.dll
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.PlutusExchangeLib.dll
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.exe
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.xml
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.pdb
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.exe
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.xml
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\bin\Release\Interop.PlutusExchangeLib.dll
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\obj\Release\Interop.PlutusExchangeLib.dll
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Form1.resources
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Resources.resources
+C:\Projects\svn for Plutus Integration\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.vbproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+\\192.168.100.85\Integration Material\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.PlutusExchangeLib.dll
+\\192.168.100.85\Integration Material\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+\\192.168.100.85\Integration Material\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+\\192.168.100.85\Integration Material\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+\\192.168.100.85\Integration Material\BillingAppAndPlutusIntegration\Sample Codes\PlutusExchangeVB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
